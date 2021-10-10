@@ -1,0 +1,4 @@
+kusa address: 0xcc21fd52e0E01E82B33d653a148D1aAEAD62320c
+chef address: 0x41fA80e9ba7e5AC78B982C0E40F6B9c03f5Cb43d
+kusa-usdt lp: 0x4c954e4a94feaa8961c05090ea0b7de41d23a4b3
+kusa-bnb lp: 0xd24085aa69b2d19e757da29f46c623d74cf7b7fc
